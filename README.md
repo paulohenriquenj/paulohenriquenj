@@ -1,8 +1,6 @@
 ### Hi there Paulo here!
 <hr />
-I'm a software developer that's really likes coding to solve problems.
-
-I’m currently learning ML
+I'm a software developer and solving problems with code is what I do. =D
 
 <hr />
 <div data-target="readme-toc.content" class="Box-body px-5 pb-5">
